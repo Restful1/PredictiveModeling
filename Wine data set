@@ -1,12 +1,4 @@
 {
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "CIND 642 Assignment 3.ipynb",
-      "provenance": [],
-      "authorship_tag": "ABX9TyOrIB6+jbJdnUtHBebo0bt3",
-      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
